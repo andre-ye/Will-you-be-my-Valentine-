@@ -13,7 +13,7 @@ const messages = [
     "I'm Jeff Jr. and I wanna see u again Wyatt!",
     "George Michael here. Say yes.",
     "Fine, I have one last question."
-];
+]; 
 
 let messageIndex = 0;
 
