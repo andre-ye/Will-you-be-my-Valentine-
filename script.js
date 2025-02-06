@@ -1,14 +1,18 @@
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
+    "Are you sure Wyatt?",
+    "Really sure prince??",
+    "Are you positive king?",
     "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
+    "Just think about it! Do it for Miffy!",
+    "If you say no, Mishi and I will be really sad...",
     "I will be very sad...",
-    "I will be very very very sad...",
     "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Just kidding, say yes please! ❤️",
+    "This is Mike Ross. Say yes to Andre now.",
+    "Hello this is Harvey Specter, the best goddamn closer in the city. Say yes.",
+    "I'm Jeff Jr. and I wanna see u again Wyatt!",
+    "George Michael here. Say yes.",
+    "Fine, I have one last question."
 ];
 
 let messageIndex = 0;
